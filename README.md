@@ -40,7 +40,7 @@ Tlingit
 Tupi Languages  
 Yupil Languages  
   
-***Create an issue or reach out for any languages that were missed!*** ^,^  
+***Create an issue or reach out for any languages that we missed!*** ^,^  
   
 When I get around to it, I would like to add a emmet-vim script to auto add all these instead of just the standard "en" tag. I haven't found out how to make that change with vscode but if someone knows...  
   
